@@ -1,3 +1,8 @@
 # TextEditor
 Terminal based text-editor.
-![alt text](https://github.com/JoeBoiii72/TextEditor/edit/master/Capture.PNG)
+
+Use linux shell to run.
+
+I used The Ubuntu Shell on the Mircosoft store.
+
+![alt text](/master/Capture.PNG)

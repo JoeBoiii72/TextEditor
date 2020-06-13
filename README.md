@@ -2,7 +2,7 @@
 Terminal based text-editor.
 
 
-Requires linux shell to run, as it used termios.h.
+Requires linux shell to run, as it uses termios.h.
 
 
 I used The Ubuntu Shell on the Mircosoft store.

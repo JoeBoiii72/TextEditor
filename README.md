@@ -2,7 +2,7 @@
 Terminal based text-editor.
 
 
-Use linux shell to run.
+Requires linux shell to run.
 
 
 I used The Ubuntu Shell on the Mircosoft store.
